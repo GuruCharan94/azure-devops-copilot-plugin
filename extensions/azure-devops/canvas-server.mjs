@@ -69,7 +69,8 @@ const AZUREAUTH_TIMEOUT_MINUTES = "15";
 const AZUREAUTH_SILENT_TIMEOUT_MINUTES = "1";
 const AZUREAUTH_SILENT_TIMEOUT_MS = 10 * 1000;
 const AZURE_DEVOPS_RESOURCE_ID = "499b84ac-1321-427f-aa17-267ca6975798";
-const AZURE_AUTHORITY = "https://login.microsoftonline.com/common/oauth2/v2.0";
+// Temporary tenant-specific authority for testing guest access to the Azure DevOps organization.
+const AZURE_AUTHORITY = "https://login.microsoftonline.com/dc195835-2830-4ddd-808a-290066a5fa8a/oauth2/v2.0";
 const AZURE_PUBLIC_CLIENT_ID = "04b07795-8ddb-461a-bbee-02f9e1bf7b46";
 const AZURE_DEVOPS_SCOPE = `${AZURE_DEVOPS_RESOURCE_ID}/.default offline_access openid profile`;
 const AZURE_OAUTH_LOOPBACK_HOST = "localhost";

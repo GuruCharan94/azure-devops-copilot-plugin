@@ -82,8 +82,8 @@ session = await joinSession({
     canvases: [
         createCanvas({
             id: "azure-devops",
-            displayName: "Azure DevOps",
-            description: "Browse and manage Azure DevOps work items and pull requests from a canvas.",
+            displayName: "ABB E-mobility Azure DevOps",
+            description: "ABB E-mobility Azure DevOps canvas.",
             inputSchema: canvasInputSchema,
             actions: [
                 {

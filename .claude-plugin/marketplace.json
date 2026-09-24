@@ -1,25 +1,25 @@
 {
-  "name": "azure-devops-copilot-plugin-marketplace",
+  "name": "azure-devops-copilot-plugin-ABB E-mobility-marketplace",
   "metadata": {
-    "description": "Azure DevOps plugin marketplace for GitHub Copilot.",
-    "version": "0.1.56"
+    "description": "Custom ABB E-mobility Azure DevOps plugin marketplace.",
+    "version": "0.1.56-ABB E-mobility"
   },
   "owner": {
-    "name": "Microsoft",
+    "name": "GuruCharan94",
     "email": "copilot@github.com"
   },
   "plugins": [
     {
-      "name": "azure-devops-copilot-plugin",
+      "name": "azure-devops-copilot-plugin-ABB E-mobility",
       "source": "./",
-      "description": "Bring Azure DevOps work-item, repository, and pull-request workflows into GitHub Copilot.",
-      "version": "0.1.56",
+      "description": "Custom ABB E-mobility Azure DevOps workflows.",
+      "version": "0.1.56-ABB E-mobility",
       "author": {
-        "name": "Microsoft",
-        "url": "https://www.microsoft.com"
+        "name": "GuruCharan94",
+        "url": "https://github.com/GuruCharan94"
       },
-      "homepage": "https://github.com/microsoft/azure-devops-copilot-plugin",
-      "repository": "https://github.com/microsoft/azure-devops-copilot-plugin",
+      "homepage": "https://github.com/GuruCharan94/azure-devops-copilot-plugin",
+      "repository": "https://github.com/GuruCharan94/azure-devops-copilot-plugin",
       "keywords": [
         "azure-devops",
         "ado",
