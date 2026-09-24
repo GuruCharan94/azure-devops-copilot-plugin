@@ -17,7 +17,7 @@ The Azure DevOps Copilot Plugin brings your Azure DevOps work into the [GitHub C
 
 ### Marketplace
 
-Add `https://github.com/microsoft/azure-devops-copilot-plugin` as a Copilot marketplace, then select **Azure DevOps Copilot Plugin** from its catalog.
+Add `https://github.com/gurucharan94/azure-devops-copilot-plugin` as a Copilot marketplace, then select **Azure DevOps Copilot Plugin** from its catalog.
 
 ## Usage
 
